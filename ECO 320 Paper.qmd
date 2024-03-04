@@ -1,0 +1,44 @@
+---
+title: "Paper"
+format: pdf
+author: Diana Liu
+date: 2024 March 13
+abstract: "uhh abstract i gues.."
+number-sections: true
+bibliography: references.bib
+header-includes:
+  - \usepackage{indentfirst}
+  - \usepackage{setspace}
+indent: true
+fontsize: 12pt
+linestretch: 2
+---
+
+# Introduction
+This paper will examine the efficiency of legally requiring publicly traded companies to disclose certain financial and operational information by applying economic theories developed by @CiteKronman and @CiteCooter. This paper was written and compiled in @CiteR.
+
+# Required Disclosure of Asymmetric Information in the Status Quo
+Public companies are companies that have their stocks traded on an exchange like the New York Stock Exchange.The biggest benefit to being publicly traded is to raise funds from investors purchasing your stock. However, in order to be publicly traded, companies are required by law in Canada and the U.S. to regularly make information about their activities and financial status available to the public [@CiteOSC]. This process is known as continuous disclosure and is achieved through publishing quarterly and annual reports, like financial statements, executive compensation, and forward looking information circulars [@CiteOSC]. Continuous disclosure provides valuable information that investors and other stakeholders like unions, customers, and banks use to make decisions about the company in question. This information requires deliberate investment by the company to collect and organize. Costs like employing accountants and investing in internal record keeping systems to sum up and compile thousands or potentially hundreds of thousands of transactions in any given year are expensive. Often companies already have internal systems to acquire information for business decision making, resulting in asymmetric information between companies and their stakeholders. Required disclosure of this information in the status quo turns this information from the property of the company into a public good, solving this asymmetry, but incurs costs and benefits of its own.
+
+## Stakeholders
+A stakeholder in a company is an individual or organization whose well being will be effected by the financial and operational health of the company. This means that they directly benefit from required disclosure where financial and operational information that they want to know are shared at no cost to them. For example, creditors who are owed money by the company want to know if the company has enough income to repay them. Other stakeholders include shareholders, suppliers, customers, employees, and unions among others.
+
+# Efficiency of Required Disclosure
+## Cost Savings
+If it is assumed that it costs the same amount for a stakeholder to gather continuous disclosure information as the company itself, then requiring disclosure saves for stakeholders the socially wasteful costs of searching for information that the company already has [@CiteEisenberg]. To illustrate this, imagine that company A is negotiating a loan contract with a bank and they are not required by law to disclose any information. The bank want to know the financial information of company A so that they can be confident that their loan will be repaid with interest in the future. It is less costly for company A to acquire the relevant information than the bank because similar information is used for internal record keeping. If company A values the loan more than the costs of acquiring the information, then they will share the information with the bank, especially if they are financially successful and believe that the information increases the chances of securing a loan. This saves the bank costs of acquiring the information.
+On the other hand, if company A is not financially successful and believe that the information will decrease their chances of getting a loan, they will not willingly share the information, forcing the bank to spend money gathering information that company A already has, creating a social inefficiency. In this case, compelling the company to publish this information by law saves the bank the cost of searching for information.
+
+## Time Savings
+Outside of information gathering costs, the immediate availability of continuous disclosure information also allows faster allocation of goods to their highest-valued uses. Suppose that company B is competing for the same loan contract and has higher value for the loan than company A. If the bank takes time to search for company A's financial information, the loan will remain unallocated until the bank gathers enough information to decide which company to loan to. This is less efficient that if both companies' information were readily available because the bank can find the most efficient allocation of the loan immediately, saving the time it takes to transfer the loan to its highest value user.
+
+## Correcting Mistaken Assumptions
+Previous examples have been instances where parties are negotiating a one-time contract, but companies are usually engaged with routine or continuous transactions with stakeholders. @CiteKronman demonstrates that "allocative efficiency is promoted by getting information of changed circumstances to the market as quickly as possible so that parties affected by the information can alter their behaviour to waste as little resources as possible". This is especially important for continuous disclosure where information is published on a quarterly basis.
+
+Suppose that companies are only required to disclose their financial and operational information once and not continuously. Employees are engaged by a company through employment contracts. At the negotiation of the contract, the employees taken into account the disclosed information and believe the company is financially healthy and is able to pay their salaries in the future. Some time passes and the company is no longer financially healthy and will go bankrupt but they are not required to disclose this fact. The employee's assumptions are now mistaken. In order for them to correct their mistaken assumption, they must gather their company's financial information periodically which is a huge cost to each employee, likely outweighing the benefits. In this scenario, it is most efficient for the employees to leave their company for new jobs that are able to continue to pay them, but they do not due to their mistaken assumption. 
+
+## Cost Benefit Trade-Offs
+
+## Overreliance
+
+\newpage
+# References
